@@ -12,4 +12,3 @@ def connect_db():
 
 
 
-ssh-keygen -t rsa -C evilocta@foxmail.com
